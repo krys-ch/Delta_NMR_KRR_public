@@ -2,7 +2,7 @@
 
 Delta NMR is a KRR ML model for prediciton of chemical tensors at the wb97xd | 6-311g(d,p) level of theory. Trained on Dataset 4, Delta NMR takes as an input log files with results of chemical tensors at cheap wb97xd | 3-21G level of theory. This project was developed by Krystof Chrappova as part of Msci final year project.
 ![image](https://user-images.githubusercontent.com/76857765/144690608-f0ef11e6-ac4e-4d4a-85a0-7d1a5beeef8a.png)
-
+[About](/about/)
 
 Known limitaions:
 1. Molecular size - any molecule that has more than 80 features created with ACSF representation will raise an error
