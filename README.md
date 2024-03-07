@@ -31,6 +31,5 @@ Delta_NMR works as follows:
 | C    |  1.48  | 1.09  | 10.8 |
 
 
-
 ## Retraining
 Models in `trained_models` were trained on dataset 4 and testes on dataset 3  as shown in the flowchart. If you wish to retrain the model you can do so using tain_test_delta.py. Here you need to change the path to high level and low level claulcation reults (dataframes created with `make_delta_inp.py`)
