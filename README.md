@@ -23,11 +23,12 @@ Delta_NMR works as follows:
 5. using make_delta_inp.py prepare the input dataframe for the delta ML model.
 6. using delta_predict.py get wb97xd | 6-311g(d,p) level of theory chemical tensors
 
-## Carbon and Proton Tensor Prediciton Error (test errors)
-| Atom | RMSE | MAE | MAXE |
-| :------------- | :-------------: | :-------------: | :-------------: |
-| H | 0.155 | 0.111 | 1.28 |
-| C | 1.48 | 1.09 | 10.8 |
+## Carbon and Proton Tensor Prediction Error (test errors)
+
+| Atom |  RMSE  |  MAE  | MAXE |
+|------|--------|-------|------|
+| H    |  0.155 | 0.111 | 1.28 |
+| C    |  1.48  | 1.09  | 10.8 |
 
 
 
